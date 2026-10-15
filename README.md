@@ -1,7 +1,7 @@
 # Mappe offline SafeWay
 
 Questo progetto ospita i pacchetti cartografici per SafeWay. I pacchetti completi
-sono ancora in preparazione: saranno disponibili nella sezione **Releases**.
+sono disponibili nella sezione [Releases](https://github.com/abgarage1983-arch/safeway-offline-maps/releases/tag/maps-2026-10-14).
 
 ## Contenuto dei pacchetti
 
@@ -11,13 +11,13 @@ sono ancora in preparazione: saranno disponibili nella sezione **Releases**.
   ospedali e polizia, nei limiti della copertura OpenStreetMap.
 - Catalogo con dimensioni effettive e impronte SHA-256 dei file.
 
-La distribuzione è prevista per tutte le 20 regioni italiane. L'opzione Italia
+La distribuzione comprende tutte le 20 regioni italiane. L'opzione Italia
 riutilizza gli stessi file regionali e stradali: non richiede una seconda copia
 completa dei pacchetti già scaricati.
 
 ## Uso in SafeWay
 
-Quando la versione offline e i pacchetti saranno disponibili, aprire
+Con SafeWay 1.1.0 Offline Beta, aprire
 **Impostazioni → Mappe offline** e scegliere Italia oppure le regioni desiderate.
 Il download viene avviato dall'utente. I file restano sul telefono senza login;
 gli aggiornamenti sono manuali. Non serve un account GitHub per scaricare.
